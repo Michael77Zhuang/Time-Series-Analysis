@@ -1,2 +1,2 @@
 # Time-Series-Analysis
-Time series analysis of temperature in Delphi, India.
+This repo contains a project about time series analysis for temperature in Delphi, India.
